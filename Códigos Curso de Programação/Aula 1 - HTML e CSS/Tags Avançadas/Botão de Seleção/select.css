@@ -1,0 +1,22 @@
+#container {
+    width: 98vw;
+    height: 97vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#row {
+    display: flex;
+}
+
+.box {
+    width: 15vw;
+    height: 40vh;
+    background-color: greenyellow;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+}
